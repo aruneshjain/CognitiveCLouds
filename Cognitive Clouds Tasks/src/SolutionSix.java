@@ -1,4 +1,4 @@
-
+//6. Find the highest number in an array
 public class SolutionSix {
     public static void main(String []args)
     {

@@ -1,4 +1,4 @@
-
+//7. Find the 3rd lowest number in an array
 public class SolutionSeven {
     public static void main(String[] args) {
 
